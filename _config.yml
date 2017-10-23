@@ -4,7 +4,9 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
+
 # run `bundle exec jekyll serve`
+# run `bundle exec jekyll serve --drafts` to write out drafts as well
 
 # Site settings
 title: Hans Adrian's Blog
